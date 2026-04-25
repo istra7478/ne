@@ -198,3 +198,139 @@
 {"timestamp":"2026-04-24T21:29:12.808Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
 {"timestamp":"2026-04-24T21:29:12.808Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
 {"timestamp":"2026-04-24T21:29:12.808Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T22:35:23.382Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T22:35:23.383Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:35:23.383Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:35:23.384Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T22:35:23.390Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T22:35:23.390Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:35:23.390Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:35:23.390Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T22:47:47.949Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T22:47:47.950Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:47:47.950Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:47:47.950Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T22:47:47.955Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T22:47:47.955Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:47:47.955Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T22:47:47.955Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T23:36:53.196Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T23:36:53.197Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T23:36:53.197Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T23:36:53.197Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-24T23:36:53.203Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-24T23:36:53.203Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T23:36:53.203Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-24T23:36:53.203Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T00:51:54.723Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T00:51:54.724Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T00:51:54.724Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T00:51:54.724Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T00:51:54.730Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T00:51:54.730Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T00:51:54.730Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T00:51:54.730Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T01:52:03.627Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T01:52:03.628Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T01:52:03.628Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T01:52:03.628Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T01:52:03.634Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T01:52:03.634Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T01:52:03.634Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T01:52:03.634Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T03:08:51.837Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T03:08:51.838Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T03:08:51.838Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T03:08:51.838Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T03:08:51.844Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T03:08:51.844Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T03:08:51.844Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T03:08:51.844Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T04:22:08.604Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T04:22:08.605Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T04:22:08.605Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T04:22:08.605Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T04:22:08.611Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T04:22:08.611Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T04:22:08.611Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T04:22:08.611Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T05:29:51.654Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T05:29:51.655Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:29:51.656Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:29:51.656Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T05:29:51.661Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T05:29:51.661Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:29:51.661Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:29:51.661Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T05:37:05.144Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T05:37:05.145Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:37:05.145Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:37:05.145Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T05:37:05.151Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T05:37:05.151Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:37:05.151Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T05:37:05.151Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T06:37:32.522Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T06:37:32.523Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T06:37:32.523Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T06:37:32.523Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T06:37:32.531Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T06:37:32.531Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T06:37:32.531Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T06:37:32.531Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T07:38:27.582Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T07:38:27.583Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T07:38:27.583Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T07:38:27.584Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T07:38:27.589Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T07:38:27.589Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T07:38:27.590Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T07:38:27.590Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T08:39:06.182Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T08:39:06.182Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T08:39:06.182Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T08:39:06.183Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T08:39:06.189Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T08:39:06.189Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T08:39:06.189Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T08:39:06.189Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T09:47:07.345Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T09:47:07.346Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T09:47:07.346Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T09:47:07.346Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T09:47:07.352Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T09:47:07.352Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T09:47:07.352Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T09:47:07.352Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T11:05:00.268Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T11:05:00.269Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:05:00.269Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:05:00.270Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T11:05:00.276Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T11:05:00.276Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:05:00.276Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:05:00.276Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T11:09:47.842Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T11:09:47.842Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:09:47.842Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:09:47.843Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T11:09:47.849Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T11:09:47.849Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:09:47.849Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T11:09:47.849Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T12:14:35.746Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T12:14:35.747Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:14:35.747Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:14:35.747Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T12:14:35.753Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T12:14:35.753Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:14:35.753Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:14:35.753Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T12:17:56.708Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T12:17:56.709Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:17:56.709Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:17:56.709Z","level":"LOG","message":"✓ Ready in 0ms"}
+{"timestamp":"2026-04-25T12:17:56.715Z","level":"LOG","message":"▲ Next.js 16.2.4"}
+{"timestamp":"2026-04-25T12:17:56.715Z","level":"LOG","message":"- Local:         http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:17:56.715Z","level":"LOG","message":"- Network:       http://0.0.0.0:3000"}
+{"timestamp":"2026-04-25T12:17:56.715Z","level":"LOG","message":"✓ Ready in 0ms"}
