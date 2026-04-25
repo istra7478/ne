@@ -1,0 +1,27 @@
+name: Deploy
+
+on:
+push:
+branches:
+- main
+
+jobs:
+deploy:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Deploy via SSH
+    uses: appleboy/ssh-action@v1.0.3
+    with:
+      host: 82.198.228.7
+      username: u137760107
+      key: ${{ secrets.SSH_PRIVATE_KEY }}
+      port: 65002
+      script: |
+        cd /home/u137760107/domains/istralife.com/nodejs
+        git pull origin main
+        npm install
+        pm2 restart istralife || pm2 start server.js --name istralife
+        pm2 save
+```
