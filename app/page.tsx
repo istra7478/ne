@@ -1,5 +1,5 @@
 // app/page.tsx
-import HeroCarousel from "./components/HeroCarousel";
+//import HeroCarousel from "./components/HeroCarousel";
 import { hotels } from "@/data/hotels";
 import Link from "next/link";
 import Image from "next/image";
@@ -7,8 +7,9 @@ import Image from "next/image";
 export default function Page() {
   return (
     <div>
-      <HeroCarousel />
-
+{/*
+  <HeroCarousel />
+*/}
       <header className="navbar" style={{ marginTop: 16 }}>
         <div className="nav-container">
           <div className="logo">Istralife</div>
